@@ -16,9 +16,9 @@ A simple command-line tool for Seattle commuters to get optimal transit routes a
 
 1. **Get a Google Maps API Key**:
    - Go to [Google Cloud Console](https://console.cloud.google.com/)
-   - Enable the Directions API
+   - Enable the **Directions API**
    - Create an API key
-   - (Free tier includes 40,000 requests/month)
+   - (Free tier includes 40,000 requests/month, you will not run out of this LOL) 
 
 2. **Install and Setup**:
    ```bash
