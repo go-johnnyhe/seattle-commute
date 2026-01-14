@@ -1,16 +1,16 @@
-# Seattle Commute CLI 🚌
+# Seattle Commute CLI
 
 A simple command-line tool for Seattle commuters to get optimal transit routes and schedules using Google Maps transit data.
 
 ## Features
 
-- ⚡ **Zero-friction UX**: No location detection needed - assumes you're commuting between home and work
-- 🏠 Routes home with `commute` (assumes you're at work)
-- 💼 Routes to work with `commute -w` (assumes you're at home)
-- 🗺️ **Arbitrary routing** with `commute "from" "to"` for any Seattle locations
-- ⏰ Shows next several departure times in the next 2 hours
-- 🚌 Real-time transit information for Seattle Metro, Sound Transit, and more
-- 💾 Saves your home/work addresses for quick access
+- **Zero-friction UX**: No location detection needed - assumes you're commuting between home and work
+- Routes home with `commute` (assumes you're at work)
+- Routes to work with `commute -w` (assumes you're at home)
+- **Arbitrary routing** with `commute "from" "to"` for any Seattle locations
+- Shows next several departure times in the next 2 hours
+- Real-time transit information for Seattle Metro, Sound Transit, and more
+- Saves your home/work addresses for quick access
 
 ## Quick Start
 
